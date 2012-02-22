@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DataflowAgent", "DataflowAgent\DataflowAgent.fsproj", "{5667053F-C57D-49B5-AC6D-5DB216363519}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WebCrawler", "WebCrawler\WebCrawler.fsproj", "{C63D7083-9367-4927-9A61-EDAE18E38999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5667053F-C57D-49B5-AC6D-5DB216363519}.Debug|x86.ActiveCfg = Debug|x86
+		{5667053F-C57D-49B5-AC6D-5DB216363519}.Debug|x86.Build.0 = Debug|x86
+		{5667053F-C57D-49B5-AC6D-5DB216363519}.Release|x86.ActiveCfg = Release|x86
+		{5667053F-C57D-49B5-AC6D-5DB216363519}.Release|x86.Build.0 = Release|x86
+		{C63D7083-9367-4927-9A61-EDAE18E38999}.Debug|x86.ActiveCfg = Debug|x86
+		{C63D7083-9367-4927-9A61-EDAE18E38999}.Debug|x86.Build.0 = Debug|x86
+		{C63D7083-9367-4927-9A61-EDAE18E38999}.Release|x86.ActiveCfg = Release|x86
+		{C63D7083-9367-4927-9A61-EDAE18E38999}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
